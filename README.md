@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MerrysG
-- 👀 I’m interested in programming/music 
-- 🌱 I’m currently learning music and mastering theory
+- 👀 I’m interested in programming/music
