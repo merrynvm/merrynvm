@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @MerrysG
+- 👋 Hi, I’m @merrynvm
 - 👀 I’m interested in programming/music
